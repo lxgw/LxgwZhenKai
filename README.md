@@ -31,11 +31,12 @@ A Bolder-weight Edition of LXGW WenKai. (Simplified Chinese Only) [「霞鹜文�
 ## 下载字体
 1. 进入 [Release](https://github.com/lxgw/LxgwZhenKai/releases) 界面下载对应版本的 TTF 格式文件。
 2. [永硕个人网盘](http://lxgw.ys168.com/)、[蓝奏云（密码：8ppk）](https://lxgw.lanzoui.com/b0cqwpt3i) 会晚些进行更新。
-3. 本仓库 **FCP-subset** 文件夹内包含该字体汉字部分的 FontCreator 工程文件（FCP 格式），部分笔画分离便于加粗调整，分一级和二级汉字，可用 Font Creator 打开查看； **TTC-subset** 文件夹包含已合并笔画的 TTF 格式汉字子集字体文件，同样分一级和二级汉字。
+3. 本仓库 **FCP-subset** 文件夹内包含该字体汉字部分的 FontCreator 工程文件（FCP 格式），部分笔画分离便于加粗调整，分一级和二级汉字，可用 Font Creator 打开查看； **TTF-subset** 文件夹包含已合并笔画的 TTF 格式汉字子集字体文件，同样分一级和二级汉字。
 
 ## 注意事项
 1. 由于手动调整需要时间，因此测试版字数较少。测试版包含 GB 2312 一级汉字 3755 字、《通用规范汉字表》一级汉字 3500 字以及《现代汉语常用字表》3500 字，以及少许二级字，满足最基本的简体中文用字需求。
 2. 本字体最终将会补完 GB 2312 和《通用规范汉字表》。由于繁体字普遍笔画繁多，会增加更多的工作量，所以目前没有加粗调整繁体字的计划，敬请谅解。
+3. 本人不是专业的字体设计师，无论是加粗还是手动调整都是凭自己的感觉，不过聊胜于无。
 
 ## 授权信息
 本字体是基于 SIL Open Font License 1.1 改造的 FONTWORKS 开发并发布的 [Klee](https://github.com/fontworks-fonts/Klee) 开源项目。Klee 是 FONTWORKS 的商标。
