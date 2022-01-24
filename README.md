@@ -19,3 +19,8 @@ A Bolder-weight Edition of LXGW WenKai. (Simplified Chinese Only) [「霞鹜文�
 
 ![](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-7.png)
 
+## 修改进度
+- **目前汉字数量：** 4000/8230
+- **现代汉语常用字表：** 3500/3500
+- **GB 2312：** 3998/6763 *（3755 个一级汉字已修改完）*
+- **通用规范汉字表：** 3997/8105
