@@ -27,10 +27,10 @@ A Bolder-weight Edition of LXGW WenKai. (Simplified Chinese Only) [「霞鹜文�
 
 ## 加粗调整进度
 ![](https://img.shields.io/badge/目前汉字总数-5120%2F8230-yellow)
-![](https://img.shields.io/badge/现代汉语常用字表-3500%2F3500-brightgreen)
 ![](https://img.shields.io/badge/GB2312-5116%2F6763-yellowgreen)
+![](https://img.shields.io/badge/通用规范汉字表-5117%2F6763-yellow)  
+![](https://img.shields.io/badge/现代汉语常用字表-3500%2F3500-brightgreen)
 ![](https://img.shields.io/badge/GB2312一级汉字-3755%2F3755-brightgreen)
-![](https://img.shields.io/badge/通用规范汉字表-5117%2F6763-yellow)
 ![](https://img.shields.io/badge/通规表一级汉字-3500%2F3500-brightgreen)
 > 注：通规表一级字「啰」「瞭」为 GB 2312 所无，GB 2312 一级字「磺」「硷」「矽」为通规表所无。*（「硫磺」可称为「硫黄」，但在「牛磺酸」等词中「磺」字无可替代；「硷」「矽」分别同「碱」「硅」，但「矽」字仍在「矽肺」一词中使用，属于习惯用法。）*
 
