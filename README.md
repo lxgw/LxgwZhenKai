@@ -28,7 +28,7 @@ A Bolder-weight Edition of LXGW WenKai. (Simplified Chinese Only) [「霞鹜文�
 ## 加粗调整进度
 ![](https://img.shields.io/badge/目前包含汉字总数-5120%2F8230-yellow)
 ![](https://img.shields.io/badge/GB2312所有汉字-5116%2F6763-yellowgreen)
-![](https://img.shields.io/badge/通用规范汉字表-5117%2F6763-yellow)  
+![](https://img.shields.io/badge/通用规范汉字表-5117%2F8105-yellow)  
 ![](https://img.shields.io/badge/现代汉语常用字表-3500%2F3500-brightgreen)
 ![](https://img.shields.io/badge/GB2312一级汉字-3755%2F3755-brightgreen)
 ![](https://img.shields.io/badge/通规表一级汉字-3500%2F3500-brightgreen)
