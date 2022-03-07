@@ -32,7 +32,7 @@ A Bolder-weight Edition of LXGW WenKai. (Simplified Chinese Only) [「霞鹜文�
 ![](https://img.shields.io/badge/现代汉语常用字表-3500%2F3500-brightgreen)
 ![](https://img.shields.io/badge/GB2312一级汉字-3755%2F3755-brightgreen)
 ![](https://img.shields.io/badge/通规表一级汉字-3500%2F3500-brightgreen)
-> 注：通规表一级字「啰」「瞭」为 GB 2312 所无，GB 2312 一级字「磺」「硷」「矽」为通规表所无。*（「硫磺」可称为「硫黄」，但在「牛磺酸」「磺胺」等词中「磺」字仍然使用且无可替代；「硷」「矽」分别同「碱」「硅」，但「矽」字仍在「矽肺」「矽卡岩」等词中使用。）*
+> 注：通规表一级字「啰」「瞭」为 GB 2312 所无，GB 2312 一级字「磺」「硷」「矽」为通规表所无。*（「硫磺」可写作「硫黄」，但在「牛磺酸」「磺胺」等词中「磺」字仍然使用且无可替代；「硷」「矽」分别同「碱」「硅」，但「矽」字仍在「矽肺」「矽卡岩」等词中使用。）*
 
 ## 下载字体
 1. 进入 [Release](https://github.com/lxgw/LxgwZhenKai/releases) 界面下载对应版本的 TTF 格式文件。
