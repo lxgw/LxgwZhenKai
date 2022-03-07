@@ -1,5 +1,5 @@
 # LXGW ZhenKai / 霞鹜臻楷
-A Bolder-weight Edition of LXGW WenKai. (Simplified Chinese Only) [「霞鹜文楷」](https://github.com/lxgw/LxgwWenKai) 加粗版（手动调整加粗，仅包含简体）
+A Bolder-weight Edition of LXGW WenKai. (Simplified Chinese Only) [「霞鹜文楷」](https://github.com/lxgw/LxgwWenKai) 粗字重（手动调整加粗，仅包含简体）
 
 [![开源授权](https://img.shields.io/github/license/lxgw/LxgwZhenKai)](https://github.com/lxgw/LxgwZhenKai)
 [![最新版](https://img.shields.io/github/release/lxgw/LxgwZhenKai)](https://github.com/lxgw/LxgwZhenKai/releases)
