@@ -28,13 +28,13 @@ A Bolder-weight Edition of LXGW WenKai. (Simplified Chinese Only) [「霞鹜文�
 ![](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-7.png)
 
 ## 加粗调整进度
-![](https://img.shields.io/badge/目前包含汉字总数-5368%2F8230-yellow)
-![](https://img.shields.io/badge/GB2312所有汉字-5329%2F6763-yellowgreen)
-![](https://img.shields.io/badge/通用规范汉字表-5340%2F8105-yellow)  
+![](https://img.shields.io/badge/目前包含汉字总数-5615%2F8230-yellow)
+![](https://img.shields.io/badge/GB2312所有汉字-5546%2F6763-yellowgreen)
+![](https://img.shields.io/badge/通用规范汉字表-5549%2F8105-yellow)  
 ![](https://img.shields.io/badge/现代汉语常用字表-3500%2F3500-brightgreen)
 ![](https://img.shields.io/badge/GB2312一级汉字-3755%2F3755-brightgreen)
 ![](https://img.shields.io/badge/通规表一级汉字-3500%2F3500-brightgreen)
-> 注：通规表一级字「啰」「瞭」为 GB 2312 所无，GB 2312 一级字「磺」「硷」「矽」为通规表所无。*（「硫磺」可写作「硫黄」，但在「牛磺酸」「磺胺」等词中「磺」字仍然使用且无可替代；「硷」「矽」分别同「碱」「硅」，但「矽」字仍在「矽肺」「矽卡岩」等词中使用。）*
+> 注：通规表一级字「啰」「瞭」为 GB 2312 所无，GB 2312 一级字「磺」「硷」「矽」为通规表所无。*（「硫磺」可写作「硫黄」，但在「牛磺酸」「磺胺」等词中「磺」字仍然使用且无可替代；「硷」「矽」分别同「碱」「硅」，但「矽」字仍在「矽肺」「矽卡岩」等词中使用。）* 以上汉字数据不包括「〇」。
 
 ## 下载字体
 1. 进入 [Release](https://github.com/lxgw/LxgwZhenKai/releases) 界面下载对应版本的 TTF 格式文件。
