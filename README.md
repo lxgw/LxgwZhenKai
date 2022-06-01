@@ -1,4 +1,4 @@
-> ~~填坑还需挖坑者，解铃还须系铃人（~~
+> **鉴于有用户认为该字体仍然细，本字体将面临重新调整。本来这款字体是为了制作更粗字重的文楷，结果在字重的选择上还是过于保守……**
 
 # LXGW ZhenKai / 霞鹜臻楷
 A Bolder-weight Edition of LXGW WenKai. (Simplified Chinese Only) [「霞鹜文楷」](https://github.com/lxgw/LxgwWenKai) *中*粗字重（手动调整加粗，仅包含简体）
