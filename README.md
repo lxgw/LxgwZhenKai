@@ -1,4 +1,4 @@
-> 本项目不再更新，并作归档处理。 [详情（酷安）](https://www.coolapk.com/feed/36502442?shareKey=NDhhODA0NDY5NDAwNjI5ZTk3YzM~&shareUid=633884&shareFrom=com.coolapk.market_12.3)
+> 本字体不再更新。 [详情（酷安）](https://www.coolapk.com/feed/36502442?shareKey=NDhhODA0NDY5NDAwNjI5ZTk3YzM~&shareUid=633884&shareFrom=com.coolapk.market_12.3)
 
 # LXGW ZhenKai / 霞鹜臻楷
 A Bolder-weight Edition of LXGW WenKai. (Simplified Chinese Only) [「霞鹜文楷」](https://github.com/lxgw/LxgwWenKai) *中*粗字重（手动调整加粗，仅包含简体）
