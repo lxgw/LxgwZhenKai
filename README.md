@@ -29,10 +29,10 @@ A Bolder-weight Edition of LXGW WenKai. (Simplified Chinese Only) [「霞鹜文�
 ![](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-7.png)
 
 ## 加粗调整进度
-![](https://img.shields.io/badge/目前包含汉字总数-6954%2F8230-yellowgreen)
+![](https://img.shields.io/badge/目前包含汉字总数-6954-yellowgreen)  
 ![](https://img.shields.io/badge/GB2312所有汉字-6760%2F6763-brightgreen)
 <!--
-![](https://img.shields.io/badge/通用规范汉字表-6830%2F8105-yellowgreen) -->  
+![](https://img.shields.io/badge/通用规范汉字表-6830%2F8105-yellowgreen) -->
 ![](https://img.shields.io/badge/现代汉语常用字表-3500%2F3500-brightgreen)
 ![](https://img.shields.io/badge/GB2312一级汉字-3755%2F3755-brightgreen)
 ![](https://img.shields.io/badge/通规表一级汉字-3500%2F3500-brightgreen)
