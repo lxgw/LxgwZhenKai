@@ -29,7 +29,7 @@ A Bolder-weight Edition of LXGW WenKai. (Simplified Chinese Only) [「霞鹜文�
 ![](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-7.png)
 
 ## 加粗调整进度
-![](https://img.shields.io/badge/目前包含汉字总数-6954-yellowgreen)
+![](https://img.shields.io/badge/目前包含汉字总数-6954-brightgreen)
 ![](https://img.shields.io/badge/GB2312所有汉字-6760%2F6763-brightgreen)
 ![](https://img.shields.io/badge/GB2312一级汉字-3755%2F3755-brightgreen)
 ![](https://img.shields.io/badge/现代汉语常用字表-3500%2F3500-brightgreen)
@@ -47,7 +47,7 @@ A Bolder-weight Edition of LXGW WenKai. (Simplified Chinese Only) [「霞鹜文�
 
 ## 注意事项
 1. 由于手动调整需要时间，因此测试版字数较少。测试版包含 GB/T 2312 一级汉字 3755 字、《通用规范汉字表》一级汉字 3500 字以及《现代汉语常用字表》3500 字，以及少许二级字，满足最基本的简体中文用字需求。
-2. 本字体最终将会补完 GB/T 2312 和《通用规范汉字表》。由于繁体字普遍笔画繁多，会增加更多的工作量，所以目前没有加粗调整繁体字的计划，敬请谅解。
+2. 本字体目前计划补完简体字。由于繁体字普遍笔画繁多，会增加更多的工作量，所以目前没有加粗调整繁体字的计划，敬请谅解。
 3. 本人不是专业的字体设计师，无论是加粗还是手动调整都是凭自己的感觉，不过聊胜于无。
 
 ## 授权信息
