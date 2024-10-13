@@ -10,9 +10,9 @@
 [![猫啃网](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAfCAMAAABeSlSAAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAHyUExURQAAAAAA//8AAAAA//8AAAAA/wAA//8AAAAA//8AAAAA//8A//8AAAAA//8AAAAA//8AAAAA/wD///8AAAD/////AAD/////AP//AP//////AAD/////AAD/////AP///wD/////AP//AP//////AP//////AP///wD//////wD//wD/////////AP///wD//wD//wD/////AP///////////wD/////AP///wD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f////39/f39/f39/f39/f39/f7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v////7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v////7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v///y6UHskAAACldFJOUwADAwQEBQYGBwcICAkLCwwMDQ0NDhESEhMWFxgYGRkbHBwdHR8hIyQlJygpKSwsLS4yMjQ1Njc3ODk6PD5BQkNFRkdNUFFTVldaXF1fYGdqbnBxcnZ4eXt8gIGEhYaJio6RkpWXmJqbnJ2goqOlpqirrrCxs7S1trm7vr/BwsTHyMvMzc/Q0tPU2Nrb3N3f4uTm5+jp6+zt7vDx8vP19vf4+/z9/iyQxCoAAAAJcEhZcwAAFxEAABcRAcom8z8AAAHPSURBVDhPvZDpOxtRFIdvCJ1olaCLoqW1BF1U2tpJSlpFiK17NNE1DbGVoFVL20TRoMFUDDKS83+6Z+6tJjx9Hp+8X+b+fued88xcckLcmnl9nR8PkfVizoDPewHYcRYqVRQZr0TYfYinii0A2LReVOoDEiwrtN5txPNtMTj2B8BTH6OMGHc/A0huaduEoXg52FwwIEPY+7a1+opalV5uts/KEPp0s07aqkIj2wMv1XHmDbo0AqlTQ9rklRtoJI3DWLJ+MsxHf5mtFT7A98toCG/A9/jQBkR6/gNGzqJBLHu8O4pVrRgGiecjBJsUgeiWWPYNOtwBWk99dHlZs17KDO24Ep3nVHdMlV7ffaNRI/SEsPLkMENwYApUkUfb0K/XW0N7XTElv7GbSGZGghOTWBpno29dpT8PfWd0vxQjlRmJw8yItwPM52onAPq5MX3huIbw/n8GvzBC75+mzbJIo3iZVuFn7MIIKcIX5I7TEUZLkFb+ci6Q2G5cstrQC7CQf/4rgKtmEVfYNFwgJO0dXpAs0vbLKLXFHRrBfYmPkZQe3BpFyJXJhwxV/Tc+4fw0n+KjA+Ibhvx8CmvDjf8+IYprJsuTp+0P8ng8OQjZB5l3H1123DZyAAAAAElFTkSuQmCC)](https://www.maoken.com/freefonts/14773.html)
 
 ## 字体介绍
-本字体是 [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) 的衍生字体，起初是对「霞鹜文楷」粗字重的制作尝试。由于目前霞鹜文楷 Medium 字重（原为 Bold，也是[「霞鹜文楷屏幕阅读版」](https://github.com/lxgw/LxgwWenKai-Screen) 的常规字重）对部分用户来说依然比较细，且利用字体编辑软件的变换功能直接加粗的话，部分字形会糊成一片。因此开始了「霞鹜臻楷」这个项目，在使用字体编辑软件加粗功能的基础上，对大部分字形进行手工调整（包括缩短笔画、减细笔画、降低加粗幅度等），使字体在加粗的同时保持清晰，减少笔画黏连、模糊、毛刺等问题。〔如欲了解修改加粗的具体过程，[请点击此处](https://weibo.com/6624339726/Lbdz1u0yH)。（多动图预警，流量党慎入）〕
+本字体是 [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) 的衍生字体，起初是对「霞鹜文楷」粗字重的制作尝试。由于目前霞鹜文楷 Medium 字重（原为 Bold，也是[「霞鹜文楷屏幕阅读版」](https://github.com/lxgw/LxgwWenKai-Screen) 的常规字重）对部分用户来说依然比较细，且利用字体编辑软件的变换功能直接加粗的话，部分字形会糊成一片。因此开始了「霞鹜臻楷」这个项目，在使用字体编辑软件加粗功能的基础上，对大部分字形进行手工调整（包括缩短笔画、减细笔画、降低加粗幅度等），使字体在加粗的同时保持清晰，减少笔画黏连、模糊、毛刺等问题。如欲了解修改加粗的具体过程，[请点击此处](https://weibo.com/6624339726/Lbdz1u0yH)。（多动图预警，流量党慎入）
 
-但是这款字体在粗度的选择上仍然过于保守，以致于这款字体后来被部分用户和手机字体爱好者觉得「仍然很细」，并且有手机字体爱好者做出了更粗的版本，因此本人认为这个项目「违背了初衷」，于是停止了这个项目的维护〔[详情（酷安）](https://www.coolapk.com/feed/36502442?shareKey=NDhhODA0NDY5NDAwNjI5ZTk3YzM~&shareUid=633884&shareFrom=com.coolapk.market_12.3)〕。后来想到还有很多喜爱这款字体的用户对这款字体的停更表示可惜，经过反复考虑，决定恢复这款字体的更新维护工作，只是后续的补字由 zi2zi 辅助进行（因此增补汉字的曲线质量会有所下降）。
+但是这款字体在粗度的选择上仍然过于保守，以致于这款字体后来被部分用户和手机字体爱好者觉得「仍然很细」，并且有手机字体爱好者做出了更粗的版本，因此本人认为这个项目「违背了初衷」，于是[停止了这个项目的维护](https://www.coolapk.com/feed/36502442?shareKey=NDhhODA0NDY5NDAwNjI5ZTk3YzM~&shareUid=633884&shareFrom=com.coolapk.market_12.3)。后来想到还有很多喜爱这款字体的用户对这款字体的停更表示可惜，经过反复考虑，决定恢复这款字体的更新维护工作，只是后续的补字由 zi2zi 辅助进行（因此增补汉字的曲线质量会有所下降）。
 
 与「霞鹜文楷」任一字重相比，「霞鹜臻楷」虽有加粗但并不糊成一片，尽管在字重的选择上违背了粗字重的「初衷」，这款字体却也粗细适中，屏幕阅读更加舒适，既可作为屏幕阅读字体，也可以 *暂且* 作为「霞鹜文楷」的粗体，与「霞鹜文楷」搭配使用。
 
@@ -56,9 +56,9 @@
 5. 如果您使用 macOS 并已经安装过 [Homebrew](https://brew.sh/), 可以在终端输入命令：`brew tap homebrew/cask-fonts && brew install font-lxgw-zhenkai` 来安装本字体。
 
 ## 注意事项
-1. 由于手动调整需要时间，因此测试版字数较少。测试版包含 GB/T 2312 一级汉字 3755 字、《通用规范汉字表》一级汉字 3500 字以及《现代汉语常用字表》3500 字，以及少许二级字，满足最基本的简体中文用字需求。
-2. 本字体目前计划补完简体字。由于繁体字普遍笔画繁多，会增加更多的工作量，所以目前没有加粗调整繁体字的计划，敬请谅解。
-3. 本人不是专业的字体设计师，无论是加粗还是手动调整都是凭自己的感觉，不过聊胜于无。
+1. 本人不是专业的字体设计师，无论是加粗还是手动调整都是凭自己的感觉，不过聊胜于无。需要说明的是，虽然这款字体是在「霞鹜文楷」的基础上加粗衍生的，但「霞鹜臻楷」是一款独立的字体，并不隶属于「霞鹜文楷」系列。虽然用户可以**暂且**将这款字体当成「霞鹜文楷」的粗体版本与文楷搭配使用，但是本字体的更新维护并不随着文楷同步进行，且并未计划将字符集与文楷看齐。
+2. **若需要在网站上使用这款字体，可在 [ZSFT](https://fonts.zeoseven.com/designer/s/2/) 查找「霞鹜臻楷」。**
+3. 手机用户如果认为这个字体仍然很细，可以选用酷安 @说到底 的[「粗合楷」](https://www.coolapk.com/feed/49709071?shareKey=NjQ1NjM1ZTE3N2Y5NjcwYmU0OGE~&shareUid=633884&shareFrom=com.coolapk.market_14.5.4-beta1)，在文楷和臻楷基础上衍生，且比臻楷更粗，此外支持更多 OpenType 特性，可能更适合手机屏幕显示（只是可能混有非开源字体）。
 
 ## 授权信息
 本字体是基于 SIL Open Font License 1.1 改造的 FONTWORKS 开发并发布的 [Klee](https://github.com/fontworks-fonts/Klee) 开源项目。Klee 是 FONTWORKS 的商标。
