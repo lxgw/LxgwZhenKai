@@ -1,5 +1,5 @@
 > [!NOTE]
-> - 本字体一度于 2022 年 6 月停止更新〔[详情（酷安）](https://www.coolapk.com/feed/36502442?shareKey=NDhhODA0NDY5NDAwNjI5ZTk3YzM~&shareUid=633884&shareFrom=com.coolapk.market_12.3)〕，后来想到还有很多喜爱这款字体的用户对这款字体的停更表示可惜，经过反复考虑，决定恢复这款字体的更新维护工作，只是后续的补字由 zi2zi 辅助进行（因此增补汉字的曲线质量会有所下降）。
+> - 本字体一度于 2022 年 6 月停止更新〔[详情（酷安）](https://www.coolapk.com/feed/36502442?shareKey=NDhhODA0NDY5NDAwNjI5ZTk3YzM~&shareUid=633884&shareFrom=com.coolapk.market_12.3)〕，后来想到还有很多喜爱这款字体的用户对这款字体的停更表示可惜，经过反复考虑，决定恢复这款字体的更新维护工作，只是后续的补字由 zi2zi 辅助进行（因此增补汉字字形的曲线质量会有所下降）。
 > - 需要说明的是，虽然这款字体是在「霞鹜文楷」的基础上加粗衍生的，但「霞鹜臻楷」是一款独立的字体，并不隶属于「霞鹜文楷」系列。虽然用户可以**暂且**将这款字体当成「霞鹜文楷」的粗体版本与文楷搭配使用，但是本字体的更新维护并不随着文楷同步进行，且并未计划将字符集与文楷看齐。
 
 # LXGW ZhenKai / 霞鹜臻楷
@@ -12,7 +12,7 @@
 ## 字体介绍
 本字体是 [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) 的衍生字体，起初是对「霞鹜文楷」粗字重的制作尝试。由于目前霞鹜文楷 Medium 字重（原为 Bold，也是[「霞鹜文楷屏幕阅读版」](https://github.com/lxgw/LxgwWenKai-Screen) 的常规字重）对部分用户来说依然比较细，且利用字体编辑软件的变换功能直接加粗的话，部分字形会糊成一片。因此开始了「霞鹜臻楷」这个项目，在使用字体编辑软件加粗功能的基础上，对大部分字形进行手工调整（包括缩短笔画、减细笔画、降低加粗幅度等），使字体在加粗的同时保持清晰，减少笔画黏连、模糊、毛刺等问题。如欲了解修改加粗的具体过程，[请点击此处](https://weibo.com/6624339726/Lbdz1u0yH)。（多动图预警，流量党慎入）
 
-但是这款字体在粗度的选择上仍然过于保守，以致于这款字体后来被部分用户和手机字体爱好者觉得[「仍然很细」](https://www.coolapk.com/feed/35106480?shareKey=OGRlMzA3YzBmZTM5NjcwYmU1OTg~&shareUid=633884&shareFrom=com.coolapk.market_14.5.4-beta1)，甚至有手机字体爱好者做出了[更粗的版本](https://www.coolapk.com/feed/49709071?shareKey=NjQ1NjM1ZTE3N2Y5NjcwYmU0OGE~&shareUid=633884&shareFrom=com.coolapk.market_14.5.4-beta1)，因此本人认为这个项目「没有达到预期效果」「违背了初衷」，于是[停止了这个项目的维护](https://www.coolapk.com/feed/36502442?shareKey=NDhhODA0NDY5NDAwNjI5ZTk3YzM~&shareUid=633884&shareFrom=com.coolapk.market_12.3)。后来想到还有很多喜爱这款字体的用户对这款字体的停更表示可惜，经过反复考虑，决定恢复这款字体的更新维护工作，只是后续的补字由 zi2zi 辅助进行（因此增补汉字的曲线质量会有所下降）。
+但是这款字体在粗度的选择上仍然过于保守，以致于这款字体后来被部分用户和手机字体爱好者觉得[「仍然很细」](https://www.coolapk.com/feed/35106480?shareKey=OGRlMzA3YzBmZTM5NjcwYmU1OTg~&shareUid=633884&shareFrom=com.coolapk.market_14.5.4-beta1)，甚至有手机字体爱好者做出了[更粗的版本](https://www.coolapk.com/feed/49709071?shareKey=NjQ1NjM1ZTE3N2Y5NjcwYmU0OGE~&shareUid=633884&shareFrom=com.coolapk.market_14.5.4-beta1)，因此本人认为这个项目「没有达到预期效果」「违背了初衷」，于是[停止了这个项目的维护](https://www.coolapk.com/feed/36502442?shareKey=NDhhODA0NDY5NDAwNjI5ZTk3YzM~&shareUid=633884&shareFrom=com.coolapk.market_12.3)。后来想到还有很多喜爱这款字体的用户对这款字体的停更表示可惜，经过反复考虑，决定恢复这款字体的更新维护工作，只是后续的补字由 zi2zi 辅助进行（因此增补汉字字形的曲线质量会有所下降）。
 
 与「霞鹜文楷」任一字重相比，「霞鹜臻楷」虽有加粗但并不糊成一片，尽管在字重的选择上违背了粗字重的「初衷」，这款字体屏幕阅读仍然更加舒适，既可作为屏幕阅读字体，也可以 *暂且* 作为「霞鹜文楷」的粗体，与「霞鹜文楷」搭配使用。
 
