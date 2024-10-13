@@ -79,21 +79,8 @@
 
 ## 鸣谢
 - [FONTWORKS 株式会社](http://fontworks.co.jp) 提供原版开源字体； [开发者 GitHub 主页](https://github.com/fontworks-fonts/)
+- [zi2zi_pytorch](https://github.com/EuphoriaYan/zi2zi-pytorch)
 
-## 关注作者
-- **Telegram：** [@lxgwtg](https://t.me/lxgwtg) | [频道](https://t.me/lxgwandroidfont)
-- **微信公众号：** 霞鹜 *（ID: lxgwshare）*
-- **酷安：** [@落霞孤鹜lxgw](https://www.coolapk.com/u/633884) | [**即刻**](https://m.okjike.com/users/2e826735-48e6-46c5-b0c2-278cb1853b54?ref=PROFILE_CARD&source=user_card&s=eyJ1IjoiNWVlMzkwZGRkNWNhNTgwMDE3NjljZjFiIiwiZCI6MX0%3D&utm_source=create_card) | [**少数派**](https://sspai.com/u/ng008g7q)
-- **微博：** [@孤鹜先森](https://weibo.com/6624339726)
-- **Email：** calxgw2018@gmail.com srtong2006@126.com lxgw1999@qq.com
-
-## 其它项目
-
-- [霞鹜文楷 / Lxgw WenKai](https://github.com/lxgw/LxgwWenKai) | [轻便版](https://github.com/lxgw/LxgwWenKai-Lite) | [屏幕阅读版](https://github.com/lxgw/LxgwWenKai-Screen)
-- [霞鹜新晰黑 / Lxgw New Clear Gothic](https://github.com/lxgw/LxgwNewClearGothic)
-- [霞鹜漫黑 / Lxgw Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic)
-- [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
-- [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font)
 
 ## 打赏支持
 [点击进入打赏页面。](https://github.com/lxgw/lxgw/blob/main/Donate.md)
