@@ -17,19 +17,21 @@
 与「霞鹜文楷」任一字重相比，「霞鹜臻楷」虽有加粗但并不糊成一片，尽管在字重的选择上违背了粗字重的「初衷」，这款字体屏幕阅读仍然更加舒适，既可作为屏幕阅读字体，也可以 *暂且* 作为「霞鹜文楷」的粗体，与「霞鹜文楷」搭配使用。
 
 ## 字体预览
-![](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-1.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/documentation/zhenkai-1.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-2.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/documentation/zhenkai-2.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-3.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/documentation/zhenkai-3.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-4.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/documentation/zhenkai-4.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-5.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/documentation/zhenkai-5.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-6.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/documentation/zhenkai-6.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-7.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/documentation/zhenkai-7.png)
+
+![](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/documentation/zhenkai-8.png)
 
 ## 字汇
 ### 简体部分
@@ -45,7 +47,7 @@
 - [x] 香港地区[「常用字字形表」](https://github.com/NightFurySL2001/cjktables/blob/master/hong_kong/hk-changyong.txt) 常用汉字及部分异体字；
 - [x] [BIG5 一级（常用）汉字](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/encoding/big5-1.txt) 5401 个；
 - [x] [《通用规范汉字表》](https://zi.tools/?secondary=character_set&set=G%E9%80%9A%E8%A7%84)附件 1：「规范字与繁体字、异体字对照表」中的繁体字列（一、二、三级）；
-- [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) IICore 范围内 9810 个汉字；
+- [x] [IICore](https://github.com/NightFurySL2001/CJK-character-count/blob/master/iicore-han.txt) 范围内 9810 个汉字；
 - [x] JIS X 0213 第一、二级汉字。
 
 目前本字体包含共计 1.3 万余字，可基本满足简繁日常用字的显示需要。
