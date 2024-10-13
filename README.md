@@ -39,12 +39,14 @@
 
 **<sup>①</sup>** 包括[「现代汉语常用字表」](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_changyong.txt)（老 3500 字）及[「义务教育语文课程常用字表」](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/yiwu_jiaoyu.txt)（新 3500 字，等效于《通用规范汉字表》一级字表），共计 3603 字。
 
-### 繁体部分
+### 繁体及其他部分
 - [x] [GB/T 12345-1990](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_12345.txt)（[原文](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=90394D2B4115D9291C825A7651AEFE4B)）6866 个汉字；
 - [x] 台湾地区[「常用国字标准字体表」](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/standard/edu_standard_1.txt)4808 个繁体常用汉字；
 - [x] 香港地区[「常用字字形表」](https://github.com/NightFurySL2001/cjktables/blob/master/hong_kong/hk-changyong.txt) 常用汉字及部分异体字；
 - [x] [BIG5 一级（常用）汉字](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/encoding/big5-1.txt) 5401 个；
-- [x] [《通用规范汉字表》](https://zi.tools/?secondary=character_set&set=G%E9%80%9A%E8%A7%84)附件 1：「规范字与繁体字、异体字对照表」中的繁体字列（一、二、三级）。
+- [x] [《通用规范汉字表》](https://zi.tools/?secondary=character_set&set=G%E9%80%9A%E8%A7%84)附件 1：「规范字与繁体字、异体字对照表」中的繁体字列（一、二、三级）；
+- [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) IICore 范围内 9810 个汉字；
+- [x] JIS X 0213 第一、二级汉字。
 
 目前本字体包含共计 1.3 万余字，可基本满足简繁日常用字的显示需要。
 
@@ -57,7 +59,7 @@
 
 ## 注意事项
 1. 本人不是专业的字体设计师，无论是加粗还是手动调整都是凭自己的感觉，不过聊胜于无。需要说明的是，虽然这款字体是在「霞鹜文楷」的基础上加粗衍生的，但「霞鹜臻楷」是一款独立的字体，并不隶属于「霞鹜文楷」系列。虽然用户可以**暂且**将这款字体当成「霞鹜文楷」的粗体版本与文楷搭配使用，但是本字体的更新维护并不随着文楷同步进行，且并未计划将字符集与文楷看齐。
-2. **若需要在网站上使用这款字体，可在 [ZSFT](https://fonts.zeoseven.com/designer/s/2/) 查找「霞鹜臻楷」。**
+2. 若需要在网站上使用这款字体，可在 [ZSFT](https://fonts.zeoseven.com/designer/s/2/) 查找「霞鹜臻楷」。
 <!-- 3. 手机用户如果认为这个字体仍然很细，可以选用酷安 @说到底 的[「粗合楷」](https://www.coolapk.com/feed/49709071?shareKey=NjQ1NjM1ZTE3N2Y5NjcwYmU0OGE~&shareUid=633884&shareFrom=com.coolapk.market_14.5.4-beta1)，在文楷和臻楷基础上衍生，且比臻楷更粗，此外支持更多 OpenType 特性，可能更适合手机屏幕显示（只是可能混有非开源字体）。-->
 
 ## 授权信息
