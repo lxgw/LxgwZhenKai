@@ -61,8 +61,9 @@
 
 ## 注意事项
 1. 本人不是专业的字体设计师，无论是加粗还是手动调整都是凭自己的感觉，不过聊胜于无。需要说明的是，虽然这款字体是在「霞鹜文楷」的基础上加粗衍生的，但「霞鹜臻楷」是一款独立的字体，并不隶属于「霞鹜文楷」系列。虽然用户可以**暂且**将这款字体当成「霞鹜文楷」的粗体版本与文楷搭配使用，但是本字体的更新维护并不随着文楷同步进行，且并未计划将字符集与文楷看齐。
-2. 若需要在网站上使用这款字体，可在 [ZSFT](https://fonts.zeoseven.com/designer/s/2/) 查找「霞鹜臻楷」。
-<!-- 3. 手机用户如果认为这个字体仍然很细，可以选用酷安 @说到底 的[「粗合楷」](https://www.coolapk.com/feed/49709071?shareKey=NjQ1NjM1ZTE3N2Y5NjcwYmU0OGE~&shareUid=633884&shareFrom=com.coolapk.market_14.5.4-beta1)，在文楷和臻楷基础上衍生，且比臻楷更粗，此外支持更多 OpenType 特性，可能更适合手机屏幕显示（只是可能混有非开源字体）。-->
+2. 由于 zi2zi 生成的是位图而非矢量图，且补字过程中直接将位图导入字体编辑软件，因而增补汉字的字形曲线质量较原有字形会有所下降。
+3. 若需要在网站上使用这款字体，可在 [ZSFT](https://fonts.zeoseven.com/designer/s/2/) 查找「霞鹜臻楷」。
+<!-- 4. 手机用户如果认为这个字体仍然很细，可以选用酷安 @说到底 的[「粗合楷」](https://www.coolapk.com/feed/49709071?shareKey=NjQ1NjM1ZTE3N2Y5NjcwYmU0OGE~&shareUid=633884&shareFrom=com.coolapk.market_14.5.4-beta1)，在文楷和臻楷基础上衍生，且比臻楷更粗，此外支持更多 OpenType 特性，可能更适合手机屏幕显示（只是可能混有非开源字体）。-->
 
 ## 授权信息
 本字体根据 SIL Open Font License 1.1 授权许可发行，基于 [Klee](https://github.com/fontworks-fonts/Klee) 及其衍生字体 [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) 开源项目制作。
