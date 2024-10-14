@@ -1,9 +1,9 @@
 > [!NOTE]
-> - 本字体一度于 2022 年 6 月停止更新〔[详情（酷安）](https://www.coolapk.com/feed/36502442?shareKey=NDhhODA0NDY5NDAwNjI5ZTk3YzM~&shareUid=633884&shareFrom=com.coolapk.market_12.3)〕，后来想到还有很多喜爱这款字体的用户对这款字体的停更表示可惜，经过反复考虑，决定恢复这款字体的更新维护工作，只是后续版本的汉字字形均由 AI 生成（因此增补汉字字形的曲线质量会有所下降）。
+> - 本字体一度于 2022 年 6 月停止更新〔[详情（酷安）](https://www.coolapk.com/feed/36502442?shareKey=NDhhODA0NDY5NDAwNjI5ZTk3YzM~&shareUid=633884&shareFrom=com.coolapk.market_12.3)〕，后来想到还有很多喜爱这款字体的用户对这款字体的停更表示可惜，经过反复考虑，决定恢复这款字体的更新维护工作，只是后续版本的汉字字形均由 AI 生成（因此汉字字形轮廓的曲线质量会有所下降）。
 > - 需要说明的是，虽然这款字体是在「霞鹜文楷」的基础上加粗衍生的，但「霞鹜臻楷」是一款独立的字体，并不隶属于「霞鹜文楷」系列。虽然用户可以**暂且**将这款字体当成「霞鹜文楷」的粗体版本与文楷搭配使用，但是本字体的更新维护并不随着文楷同步进行，且并未计划将字符集与文楷看齐。
 
 # LXGW ZhenKai / 霞鹜臻楷
-基于「霞鹜文楷」衍生，手动加粗调整字形并由 AI 辅助补字的开源中文字体。
+霞鹜臻楷：基于「霞鹜文楷」衍生，前期手动加粗调整字形，后期由 AI 生成字形辅助补字的开源中文字体。
 
 [![开源授权](https://img.shields.io/github/license/lxgw/LxgwZhenKai?style=flat-square)](https://github.com/lxgw/LxgwZhenKai)
 [![最新版](https://img.shields.io/github/release/lxgw/LxgwZhenKai?style=flat-square)](https://github.com/lxgw/LxgwZhenKai/releases)
