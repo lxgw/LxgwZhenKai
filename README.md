@@ -16,6 +16,8 @@
 
 与「霞鹜文楷」任一字重相比，「霞鹜臻楷」虽有加粗但并不糊成一片，尽管在字重的选择上背离了粗字重的「初衷」，这款字体屏幕阅读仍然更加舒适，既可作为屏幕阅读字体，也可以 *暂且* 作为「霞鹜文楷」的粗体，与「霞鹜文楷」搭配使用。
 
+「霞鹜臻楷」支持 Unicode 变体序列（Unicode Variation Sequences, UVS），用于蝌蚪引号`“‘’”`宽度的选择，[点击此处查看一览表](documentation/uvs.pdf)。
+
 ## 字体预览
 ![](documentation/zhenkai-1.png)
 
@@ -88,6 +90,7 @@
 
 ## 鸣谢
 - [FONTWORKS 株式会社](http://fontworks.co.jp) 提供原版开源字体； [开发者 GitHub 主页](https://github.com/fontworks-fonts/)
+- 部分标点符号借用 [源柔ゴシック / GenJyuu Gothic](http://jikasei.me/font/genjyuu/)
 - [zi2zi_pytorch](https://github.com/EuphoriaYan/zi2zi-pytorch)
 - [SVG2FontBuilder](https://github.com/NightFurySL2001/SVG2FontBuilder)
 
