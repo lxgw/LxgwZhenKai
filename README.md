@@ -60,7 +60,7 @@
 
 ## 下载字体
 1. 进入 [Release](https://github.com/lxgw/LxgwZhenKai/releases) 界面下载对应版本的 TTF 格式文件。
-2. [永硕个人网盘](http://lxgw.ys168.com/)、[蓝奏云（密码：8ppk）](https://lxgw.lanzoui.com/b0cqwpt3i) 会进行同步更新。
+2. [永硕个人网盘](http://lxgw.ys168.com/)、[蓝奏云（密码：3s01）](https://lxgw.lanzouv.com/b02sf342de) 会进行同步更新。
 3. 进入 [猫啃网](https://www.maoken.com/freefonts/14773.html)、[Zfont.cn](https://zfont.cn/cn/font_442.html) 进行下载。GitHub 项目更新后，会联系站长进行更新，更新会稍晚些。 **注意：** 其它收录免费商用字体的网站上可能也收录了本字体，但可能不是最新版。
 <!-- 4. 本仓库 **FCP-subset** 文件夹内包含该字体汉字部分的 FontCreator 工程文件（FCP 格式），部分笔画分离便于加粗调整，分一级和二级汉字，可用 Font Creator 打开查看； **TTF-subset** 文件夹包含已合并笔画的 TTF 格式汉字子集字体文件，同样分一级和二级汉字。
 5. 如果您使用 macOS 并已经安装过 [Homebrew](https://brew.sh/), 可以在终端输入命令：`brew tap homebrew/cask-fonts && brew install font-lxgw-zhenkai` 来安装本字体。-->
