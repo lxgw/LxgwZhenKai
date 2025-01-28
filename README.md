@@ -94,6 +94,9 @@
 - [zi2zi_pytorch](https://github.com/EuphoriaYan/zi2zi-pytorch)
 - [SVG2FontBuilder](https://github.com/NightFurySL2001/SVG2FontBuilder)
 
+## 使用该字体的实例
+- [BV1czfpYQE5p：哔哩哔哩 2025 拜年纪单品《春日游》](https://www.bilibili.com/video/BV1czfpYQE5p)
+
 ## 更多「霞鹜」系列字体
 ### 「霞鹜文楷」系列
 - [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [Lite](https://github.com/lxgw/LxgwWenKai-Lite)
