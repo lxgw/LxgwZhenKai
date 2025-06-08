@@ -43,7 +43,8 @@
 
 自 v0.800 起，《霞鹜臻楷 GB》收录 GBK 范围内的 21003 个汉字和部首，IICore 范围内 9810 个汉字，以及《通用规范汉字表》收录的 8105 个规范字及其繁体字，共计 2.13 万字，基本满足屏幕阅读字库需求。
 
-以下为《霞鹜臻楷（无后缀版本）》截至 v0.800 版本的收字情况：
+<details>
+<summary>点击查看《霞鹜臻楷（无后缀版本）》截至 v0.800 版本的收字情况。</summary>
 
 ### 简体部分
 - [x] 3500 常用汉字 <sup>①</sup>;
@@ -61,7 +62,8 @@
 - [x] [IICore](https://github.com/NightFurySL2001/CJK-character-count/blob/master/iicore-han.txt) 范围内 9810 个汉字；
 - [x] JIS X 0213 第一、二级汉字。
 
-共计 1.3 万余字，可基本满足简繁日常用字的显示需要。
+共计 1.3 万余字，可基本满足简繁日常用字的显示需要。无后缀版《霞鹜臻楷》截止到 v0.800 版本，后续不再更新。
+</details>
 
 ## 下载字体
 1. 进入 [Release](https://github.com/lxgw/LxgwZhenKai/releases) 界面下载对应版本的 TTF 格式文件。
