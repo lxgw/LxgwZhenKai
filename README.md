@@ -40,6 +40,11 @@
 ![](documentation/zhenkai-a.png)
 
 ## 字汇
+
+自 v0.800 起，《霞鹜臻楷 GB》收录 GBK 范围内的 21003 个汉字和部首，IICore 范围内 9810 个汉字，以及《通用规范汉字表》收录的 8105 个规范字及其繁体字，共计 2.13 万字，基本满足屏幕阅读字库需求。
+
+以下为《霞鹜臻楷（无后缀版本）》截至 v0.800 版本的收字情况：
+
 ### 简体部分
 - [x] 3500 常用汉字 <sup>①</sup>;
 - [x] [GB/T 2312-1980](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_2312.txt)（[原文](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5664A728BD9D523DE3B99BC37AC7A2CC)）及[《通用规范汉字表》](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/tongyong_guifan.txt)（[原文](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201306/t20130601_186002.html)）二级字。
@@ -56,7 +61,7 @@
 - [x] [IICore](https://github.com/NightFurySL2001/CJK-character-count/blob/master/iicore-han.txt) 范围内 9810 个汉字；
 - [x] JIS X 0213 第一、二级汉字。
 
-目前本字体包含共计 1.3 万余字，可基本满足简繁日常用字的显示需要。
+共计 1.3 万余字，可基本满足简繁日常用字的显示需要。
 
 ## 下载字体
 1. 进入 [Release](https://github.com/lxgw/LxgwZhenKai/releases) 界面下载对应版本的 TTF 格式文件。
@@ -69,6 +74,7 @@
 1. 需要说明的是，虽然这款字体是在「霞鹜文楷」的基础上加粗衍生的，但「霞鹜臻楷」是一款独立的字体，并不隶属于「霞鹜文楷」系列。虽然用户可以 *暂且* 将这款字体当成「霞鹜文楷」的粗体版本与文楷搭配使用，但是本字体的更新维护并不随着文楷同步进行，且并未计划将字符集与文楷看齐。
 2. 由于 zi2zi 生成的是位图而非矢量图，直接导入到字体文件后轮廓曲线质量会下降（如会出现锯齿、坑洼等），因而将字形字形位图转换成了 SVG 矢量图，并使用 [SVG2FontBuilder](https://github.com/NightFurySL2001/SVG2FontBuilder) 构建成汉字字体，生成的字体曲线轮廓会有所提升。不过，转换成矢量图后锚点增多，字体文件体积会增大。
 3. 若需要在网站上使用这款字体，可在 [ZSFT](https://fonts.zeoseven.com/designer/s/2/) 查找「霞鹜臻楷」。
+4. 自 v0.800 起，只维护 GB 字形版，无后缀版《霞鹜臻楷》不再更新。
     <!-- 4. 手机用户如果认为这个字体仍然很细，可以选用酷安 @说到底 的[「粗合楷」](https://www.coolapk.com/feed/49709071?shareKey=NjQ1NjM1ZTE3N2Y5NjcwYmU0OGE~&shareUid=633884&shareFrom=com.coolapk.market_14.5.4-beta1)，在文楷和臻楷基础上衍生，且比臻楷更粗，此外支持更多 OpenType 特性，可能更适合手机屏幕显示（只是可能混有非开源字体）。-->
 
 ## 授权信息
