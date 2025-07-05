@@ -39,7 +39,7 @@
 
 ![](documentation/zhenkai-a.png)
 
-> ㊟ 预览图中保留直点、断笔等印刷字体特征的《霞鹜臻楷（无后缀版本）》已经停止更新维护，最后版本为 [v0.800.2]((https://github.com/lxgw/LxgwZhenKai/releases/tag/v0.800.2)。
+> ㊟ 预览图中保留直点、断笔等印刷字体特征的《霞鹜臻楷（无后缀版本）》已经停止更新维护，最后版本为 [v0.800.2](https://github.com/lxgw/LxgwZhenKai/releases/tag/v0.800.2)。
 
 ## 字汇
 
