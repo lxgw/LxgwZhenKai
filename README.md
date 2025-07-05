@@ -83,6 +83,8 @@
 ## 授权信息
 本字体根据 SIL Open Font License 1.1 授权许可发行，基于 [Klee](https://github.com/fontworks-fonts/Klee) 及其衍生字体 [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) 开源项目制作。
 
+「霞鹜臻楷 Slab」的西文部分取自 Hanyang I&C 开发的 [Gungsuh](https://github.com/googlefonts/batang)，根据 SIL OFL 1.1 开源发布。
+
 > [猫啃网](https://www.maoken.com/)提供 SIL Open Font License 1.1 非官方[简体中文译本](https://www.maoken.com/ofl)便于理解，仅供参考。
 
 ### 许可
