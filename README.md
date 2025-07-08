@@ -19,6 +19,8 @@
 「霞鹜臻楷」支持 Unicode 变体序列（Unicode Variation Sequences, UVS），用于蝌蚪引号`“‘’”`宽度的选择，[点击此处查看一览表](documentation/uvs.pdf)。
 
 ## 字体预览
+![](documentation/zhenkai-0.png)
+
 ![](documentation/zhenkai-1.png)
 
 ![](documentation/zhenkai-2.png)
