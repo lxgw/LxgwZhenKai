@@ -1,5 +1,6 @@
-Copyright 2022, 2024 LXGW (https://github.com/lxgw/LxgwZhenKai)
+Copyright 2022-2026 LXGW (https://github.com/lxgw), with Reserved Font Name '霞鹜', '霞鶩', '落霞孤鹜', '落霞孤鶩' and 'LXGW'. [ADDITIONAL PERMISSION] The Reserved Font Names '霞鹜', '霞鶩', '落霞孤鹜', '落霞孤鶩' and 'LXGW' may continue to be used in Modified Versions that are recompiled from the Original Version without modifications to the font source code, or that are subsetted or converted to other formats (e.g., WOFF/WOFF2) solely for the purpose of web font delivery, provided that such Modified Versions are not made available to the public as installable desktop font files. This permission applies to, but is not limited to, mainstream web font hosting platforms such as Google Fonts, as well as third-party non-commercial platforms recognized by the author (@lxgw). Other platforms wishing to avail themselves of this permission should contact the author for confirmation.
 Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)
+Copyright 2024 The Batang and Gungsuh Project Authors (https://github.com/googlefonts/batang)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
