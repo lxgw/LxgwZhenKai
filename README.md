@@ -85,23 +85,23 @@
     <!-- 4. 手机用户如果认为这个字体仍然很细，可以选用酷安 @说到底 的[「粗合楷」](https://www.coolapk.com/feed/49709071?shareKey=NjQ1NjM1ZTE3N2Y5NjcwYmU0OGE~&shareUid=633884&shareFrom=com.coolapk.market_14.5.4-beta1)，在文楷和臻楷基础上衍生，且比臻楷更粗，此外支持更多 OpenType 特性，可能更适合手机屏幕显示（只是可能混有非开源字体）。-->
 
 ## 授权信息
-本字体根据 SIL Open Font License 1.1 授权许可发行，基于 [Klee](https://github.com/fontworks-fonts/Klee) 及其衍生字体 [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) 开源项目制作。
+本字体根据 [SIL Open Font License 1.1](https://openfontlicense.org/open-font-license-official-text/) 授权许可发行，基于 [Klee](https://github.com/fontworks-fonts/Klee) 及其衍生字体 [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) 开源项目制作。
 
-「霞鹜臻楷 Slab」的西文部分取自 Hanyang I&C 开发的 [Gungsuh](https://github.com/googlefonts/batang)，根据 SIL OFL 1.1 开源发布。该版本可能随时取消。
+「霞鹜臻楷 Slab」的西文部分取自 Hanyang I&C 开发的 [Gungsuh](https://github.com/googlefonts/batang)，根据 SIL OFL 1.1 开源发布。
 
 > [猫啃网](https://www.maoken.com/)提供 SIL Open Font License 1.1 非官方[简体中文译本](https://www.maoken.com/ofl)便于理解，仅供参考。
-
+> 
 ### 许可
 
-- 这款字体无论是个人还是企业都可以自由商用，无需付费，也无需知会或者标明原作者。 *（但如果告知，我会很感激。）*
-- 这款字体可以自由传播、分享，或者将字体安装于硬件系统、嵌入于软件或APP中也是允许的，可以与任何软件捆绑再分发以及／或一并销售。
-- 这款字体可以自由修改、改造，制作衍生字体。修改或改造后的字体也必须同样以 [SIL OFL](https://openfontlicense.org) 公开。
+- 这款字体无论是个人还是企业都可以自由商用，无需付费，也无需知会或者标明原作者。（但如果告知，我会很感激。🫶）
+- 这款字体可以自由传播、分享，或者将字体安装于系统、嵌入于软件或 APP 中也是允许的，可以与任何软件捆绑再分发以及／或一并销售。
+- 这款字体可以自由修改、改造，制作衍生字体。修改或改造后的字体也必须同样遵守 [SIL Open Font License 1.1](https://openfontlicense.org/open-font-license-official-text/) 所规定的条款与条件。
 
 ### 限制
 
-- 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。本字体保留名称「霞鹜」「LXGW」，基于本字体二次衍生的字体，名称不可出现「霞鹜」或「LXGW」字样；而在没有对字体源代码进行修改的情况下，重新编译出来的字体，可以继续使用本字体的保留名称「霞鹜」「LXGW」。
-- 根据 [SIL Open Font License 1.1](https://openfontlicense.org)「许可与条件」中第 1 条的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。**
-- 该字体不可在 [SIL Open Font License 1.1](https://openfontlicense.org) 以外的授权许可下发行。
+- 根据 OFL 1.1「许可与条件」中第 1 条的规定，**禁止单独出售字体文件**（OTF/TTF 格式文件）。
+- 根据 OFL 1.1「许可与条件」中第 3 条的规定，在制作衍生字体时，未经作者明确的书面授权，字体名称不可使用原有字体的「保留名称」。本字体保留名称为：**霞鹜**（霞鶩）、**落霞孤鹜**（落霞孤鶩）、**LXGW**。基于本字体二次衍生的字体，未经作者（@lxgw）明确书面授权，名称不可出现上述字样；而在没有对字体源代码进行修改的情况下将字体重新编译，或者仅为了网页端渲染优化（Web Font）的目的而对本字体进行子集化（Subsetting）或格式转换（如 WOFF/WOFF2），且不将其作为可安装的桌面字体文件提供给公众下载的情况下〔如 [Google Fonts](https://fonts.google.com) 等主流网页字体托管平台，或者 [ZSFT](https://fonts.zeoseven.com/) 等由作者（@lxgw）认可的第三方公益平台。其他平台如需适用此特例，请联系作者（@lxgw）确认〕，可作为特例继续使用本字体的保留名称。同时，根据第 4 条，未经作者（@lxgw）明确书面授权，本字体的任何衍生字体不得以作者（@lxgw）的名义推广、背书或宣传。
+- 根据 OFL 1.1「许可与条件」中第 5 条的规定，该字体不可在 OFL 1.1 以外的授权许可下发行，亦不可将该字体与可能造成许可证冲突的其他协议字体（如 GNU GPL、IPA 等）混合至同一字体文件。
 
 ## 鸣谢
 - [FONTWORKS 株式会社](http://fontworks.co.jp) 提供原版开源字体； [开发者 GitHub 主页](https://github.com/fontworks-fonts/)
