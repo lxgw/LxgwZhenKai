@@ -112,7 +112,7 @@
 ## 使用该字体的实例
 - [BV1czfpYQE5p：哔哩哔哩 2025 拜年纪单品《春日游》](https://www.bilibili.com/video/BV1czfpYQE5p)
 
-## 更多「霞鹜」系列字体
+## 更多「霞鹜」开源字体
 ### 「霞鹜文楷」系列
 - [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [Lite](https://github.com/lxgw/LxgwWenKai-Lite)
 - [霞鹜文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenKaiGB) | [Lite](https://github.com/lxgw/LxgwWenKaiGB-Lite)
