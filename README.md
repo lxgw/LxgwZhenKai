@@ -74,9 +74,13 @@
 1. 进入 [Release](https://github.com/lxgw/LxgwZhenKai/releases) 界面下载对应版本的 TTF 格式文件。
 2. [永硕个人网盘](http://lxgw.ys168.com/)、[蓝奏云（密码：3s01）](https://lxgw.lanzouv.com/b02sf342de) 会进行同步更新。
 3. 进入 [猫啃网](https://www.maoken.com/freefonts/14773.html)、[Zfont.cn](https://zfont.cn/cn/font_442.html) 进行下载。GitHub 项目更新后，会联系站长进行更新，更新会稍晚些。 **注意：** 其它收录免费商用字体的网站上可能也收录了本字体，但可能不是最新版。
-  <!-- 4. 本仓库 **FCP-subset** 文件夹内包含该字体汉字部分的 FontCreator 工程文件（FCP 格式），部分笔画分离便于加粗调整，分一级和二级汉字，可用 Font Creator 打开查看； **TTF-subset** 文件夹包含已合并笔画的 TTF 格式汉字子集字体文件，同样分一级和二级汉字。
+     <!-- 4. 本仓库 **FCP-subset** 文件夹内包含该字体汉字部分的 FontCreator 工程文件（FCP 格式），部分笔画分离便于加粗调整，分一级和二级汉字，可用 Font Creator 打开查看； **TTF-subset** 文件夹包含已合并笔画的 TTF 格式汉字子集字体文件，同样分一级和二级汉字。
 4. 如果您使用 macOS 并已经安装过 [Homebrew](https://brew.sh/), 可以在终端输入命令：`brew tap homebrew/cask-fonts && brew install font-lxgw-zhenkai` 来安装本字体。-->
-5. 本项目仓库[「FCP」](./FCP/)文件夹中提供 FCP 格式的字体工程文件，便于二次开发字体。需要 15.0.0.3048 及更高版本的 FontCreator。
+5. 本项目仓库 [FCP](./FCP/) 文件夹中提供 FCP 格式的字体工程文件，便于二次开发字体。需要 15.0.0.3048 及更高版本的 FontCreator。
+
+###  训练样本
+
+本仓库 [dataset](./dataset/) 文件夹提供用于 zi2zi 模型训练的样本字体，在 [v1.234 版本「霞鹜文楷 轻便版」](https://github.com/lxgw/LxgwWenKai-Lite/releases/tag/v1.234)和 [v0.554 版本「霞鹜臻楷」](https://github.com/lxgw/LxgwZhenKai/releases/tag/v0.554)基础上剔除了不对应及干扰字形，确保源字体与目标字体的字符集严格对齐。训练出模型后，可利用该模型在「霞鹜文楷」或其他 Klee One 衍生字体基础上，生成对应的加粗字形。
 
 ## 注意事项
 1. 需要说明的是，虽然这款字体是在「霞鹜文楷」的基础上加粗衍生的，但「霞鹜臻楷」是一款独立的字体，并不隶属于「霞鹜文楷」系列。虽然用户可以 *暂且* 将这款字体当成「霞鹜文楷」的粗体版本与文楷搭配使用，但是本字体的更新维护并不随着文楷同步进行，且并未计划将字符集与文楷看齐。
