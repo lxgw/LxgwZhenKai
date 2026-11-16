@@ -74,9 +74,7 @@
 1. 进入 [Release](https://github.com/lxgw/LxgwZhenKai/releases) 界面下载对应版本的 TTF 格式文件。
 2. [永硕个人网盘](http://lxgw.ys168.com/)、[蓝奏云（密码：3s01）](https://lxgw.lanzouv.com/b02sf342de) 会进行同步更新。
 3. 进入 [猫啃网](https://www.maoken.com/freefonts/14773.html)、[Zfont.cn](https://zfont.cn/cn/font_442.html) 进行下载。GitHub 项目更新后，会联系站长进行更新，更新会稍晚些。 **注意：** 其它收录免费商用字体的网站上可能也收录了本字体，但可能不是最新版。
-     <!-- 4. 本仓库 **FCP-subset** 文件夹内包含该字体汉字部分的 FontCreator 工程文件（FCP 格式），部分笔画分离便于加粗调整，分一级和二级汉字，可用 Font Creator 打开查看； **TTF-subset** 文件夹包含已合并笔画的 TTF 格式汉字子集字体文件，同样分一级和二级汉字。
-4. 如果您使用 macOS 并已经安装过 [Homebrew](https://brew.sh/), 可以在终端输入命令：`brew tap homebrew/cask-fonts && brew install font-lxgw-zhenkai` 来安装本字体。-->
-5. 本项目仓库 [FCP](./FCP/) 文件夹中提供 FCP 格式的字体工程文件，便于二次开发字体。需要 15.0.0.3048 及更高版本的 FontCreator。
+4. 本项目仓库 [FCP](./FCP/) 文件夹中提供 FCP 格式的字体工程文件，便于二次开发字体。需要 15.0.0.3048 及更高版本的 FontCreator。
 
 ###  训练样本
 
@@ -87,7 +85,7 @@
 2. 由于 zi2zi 生成的是位图而非矢量图，直接导入到字体文件后轮廓曲线质量会下降（如会出现锯齿、坑洼等），因而将字形字形位图转换成了 SVG 矢量图，并使用 [SVG2FontBuilder](https://github.com/NightFurySL2001/SVG2FontBuilder) 构建成汉字字体，生成的字体曲线轮廓会有所提升。不过，转换成矢量图后锚点增多，字体文件体积会增大。
 3. 若需要在网站上使用这款字体，可在 [ZSFT](https://fonts.zeoseven.com/designer/s/2/) 查找「霞鹜臻楷」。
 4. 自 [v0.800.2](https://github.com/lxgw/LxgwZhenKai/releases/tag/v0.800.2) 之后，只维护 GB 字形版，无后缀版《霞鹜臻楷》不再更新维护。另提供 Windows 内置「楷体」度量兼容版本「臻楷_GBK」，采用 GBK 字符集、GungsuhChe 等宽西文（在本项目 Release 中下载，该版本随时取消）。
-    <!-- 4. 手机用户如果认为这个字体仍然很细，可以选用酷安 @说到底 的[「粗合楷」](https://www.coolapk.com/feed/49709071?shareKey=NjQ1NjM1ZTE3N2Y5NjcwYmU0OGE~&shareUid=633884&shareFrom=com.coolapk.market_14.5.4-beta1)，在文楷和臻楷基础上衍生，且比臻楷更粗，此外支持更多 OpenType 特性，可能更适合手机屏幕显示（只是可能混有非开源字体）。-->
+<!-- 5. 手机用户如果认为这个字体仍然很细，可以选用酷安 @说到底 的[「粗合楷」](https://www.coolapk.com/feed/49709071?shareKey=NjQ1NjM1ZTE3N2Y5NjcwYmU0OGE~&shareUid=633884&shareFrom=com.coolapk.market_14.5.4-beta1)，在文楷和臻楷基础上衍生，且比臻楷更粗，此外支持更多 OpenType 特性，可能更适合手机屏幕显示（只是可能混有非开源字体）。-->
 
 ## 授权信息
 本字体根据 [SIL Open Font License 1.1](https://openfontlicense.org/open-font-license-official-text/) 授权许可发行，基于 [Klee](https://github.com/fontworks-fonts/Klee) 及其衍生字体 [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) 开源项目制作。
