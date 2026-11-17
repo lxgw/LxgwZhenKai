@@ -78,7 +78,7 @@
 
 ###  训练样本
 
-本仓库 [dataset](./dataset/) 文件夹提供用于 zi2zi 模型训练的样本字体，在 [v1.234 版本「霞鹜文楷 轻便版」](https://github.com/lxgw/LxgwWenKai-Lite/releases/tag/v1.234)和 [v0.554 版本「霞鹜臻楷」](https://github.com/lxgw/LxgwZhenKai/releases/tag/v0.554)基础上剔除了不对应及干扰字形，确保源字体与目标字体的字符集严格对齐。训练出模型后，可利用该模型在「霞鹜文楷」或其他 Klee One 衍生字体基础上，生成对应的加粗字形。
+本仓库 [dataset](./dataset/) 文件夹提供用于 zi2zi 模型训练的样本字体，在 [v1.234 版本「霞鹜文楷 轻便版」](https://github.com/lxgw/LxgwWenKai-Lite/releases/tag/v1.234)和 [v0.554 版本「霞鹜臻楷」](https://github.com/lxgw/LxgwZhenKai/releases/tag/v0.554)基础上剔除了骨架不一致的干扰字形，确保源字体与目标字体的汉字骨架高度一致。训练出模型后，可利用该模型在「霞鹜文楷」或其他 Klee One 衍生字体基础上，生成对应的加粗字形。
 
 ## 注意事项
 1. 需要说明的是，虽然这款字体是在「霞鹜文楷」的基础上加粗衍生的，但「霞鹜臻楷」是一款独立的字体，并不隶属于「霞鹜文楷」系列。虽然用户可以 *暂且* 将这款字体当成「霞鹜文楷」的粗体版本与文楷搭配使用，但是本字体的更新维护并不随着文楷同步进行，且并未计划将字符集与文楷看齐。
